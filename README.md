@@ -1,4 +1,4 @@
-# worflow-training
+# workflow-training
 
 Contribute to this project to understand how github's contributions works.
 
